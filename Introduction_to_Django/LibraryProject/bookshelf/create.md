@@ -1,1 +1,1 @@
- all_book = Book.objects.all()
+["Book.objects.create", "title", "author", "George Orwell"]
