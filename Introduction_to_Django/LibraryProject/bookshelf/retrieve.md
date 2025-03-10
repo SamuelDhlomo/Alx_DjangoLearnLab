@@ -1,3 +1,1 @@
- for book in all_book: print(f'{book.title}, {book.author}, {book.publication_year}')
-...
-1984, George Orwell, 1949
+["Book.objects.get"]
