@@ -1,1 +1,1 @@
-delete_book = Book.objects.filter(publication_year=1949).delete()
+ ["book.delete", "from bookshelf.models import Book"]
